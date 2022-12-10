@@ -29,7 +29,7 @@ This is a basic bullet-point list of how to create a simple django application t
 * 'python manage.py runserver'
 * copy and paste the numbers: 127.x.x.x:xxxx
 
-The changes that need to be implemented to the files (.py and .html), along with the folders that need to be created are pushed to this repository.
+The changes that need to be implemented to the files (.py and .html), along with the folders that need to be created are pushed to this repository. Any folder that has not be altered have been set to be ignored (.gitignore).
 
 ## Contribution
 Made by CoderJ01
