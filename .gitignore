@@ -1,0 +1,21 @@
+# ignore all files that were not changed in django walkthrough
+myVenv
+
+myProject/myApp/__pycache__
+myProject/myApp/migrations
+
+myProject/myApp/__init__.py
+myProject/myApp/admin.py
+myProject/myApp/apps.py
+myProject/myApp/models.py
+myProject/myApp/tests.py
+
+myProject/myProject/__pycache__
+myProject/myProject/__init__.py
+myProject/myProject/__pycache__
+myProject/myProject/asgi.py
+myProject/myProject/settings.py
+myProject/myProject/wsgi.py
+
+myProject/db.sqlite3
+myProject/manage.py
